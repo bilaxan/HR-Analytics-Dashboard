@@ -158,3 +158,7 @@ Attrition analysis • Employee demographics • Job satisfaction • Department
 
 **Business Analytics:**
 Trend analysis • Workforce analysis • Data storytelling • Business-focused reporting • Data-driven decision support
+
+---
+
+Bilaxan Paudel, 2026
